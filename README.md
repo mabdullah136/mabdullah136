@@ -17,8 +17,7 @@
 [![AlShamsCorporation](https://www.alshamscorporation.com/assets/logo-Bjunu67P.svg)](https://www.alshamscorporation.com/)
 
 # 💻 Mobile Projects:
-[![PLANTEO](https://s3.ap-south-1.amazonaws.com/assets.mathmania.com/local-Storage/student-images/student-profile-1734075093125.jpg)]
----
-[![](https://visitcount.itsvg.in/api?id=mabdullah136&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://s3.ap-south-1.amazonaws.com/assets.mathmania.com/local-Storage/student-images/student-profile-1734075093125.jpg" alt="PLANTEO" width="200" height="200">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
