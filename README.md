@@ -12,6 +12,8 @@ Node.js: Express.js, NestJS
 ## Databases
 SQL: PostgreSQL, MySQL, SQLite3
 NoSQL: MongoDB
+# 💻 Projects:
+[![MATHmania](https://s3.ap-south-1.amazonaws.com/assets.mathmania.com/Logos/logo-images/1728896188373.png)](https://mathmania.pk/)
 
 
 
