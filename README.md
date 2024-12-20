@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on Python and MERN<br>🌱 I’m currently learning Nest JS<br>👯 I’m looking to collaborate on Projects<br><🤝 I’m looking for help with Backend<br><br>💬 Ask me about anything related to Cross Platform Development
+<br>🔭 I’m currently working on Python and MERN<br>🌱 I’m currently learning Nest JS<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Backend<br><br>💬 Ask me about anything related to Cross Platform Development
 
 
 ## 🌐 Socials:
