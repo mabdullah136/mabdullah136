@@ -14,6 +14,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=mabdullah136&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdullah136&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 # 💻 Web Projects:
 [![MATHmania](https://s3.ap-south-1.amazonaws.com/assets.mathmania.com/Logos/logo-images/1728896188373.png)](https://mathmania.pk/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![AlShamsCorporation](https://www.alshamscorporation.com/assets/logo-Bjunu67P.svg)](https://www.alshamscorporation.com/)
