@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on Python and MERN<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Backend<br><br>💬 Ask me about anything related to Cross Platform Development<br><br>🔹 **Join the discussion here:** [GitHub Discussion](https://github.com/mabdullah136/mabdullah136/discussions/1#discussion-8)
+<br>🔭 I’m currently working on Python and MERN<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Backend<br><br>💬 Ask me about anything related to Cross Platform Development<br><br> **Join the discussion here:** [GitHub Discussion](https://github.com/mabdullah136/mabdullah136/discussions/1#discussion-8)
 
 
 ## 🌐 Socials:
