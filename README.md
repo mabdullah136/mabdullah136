@@ -18,6 +18,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mabdullah136&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### :top: Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mabdullah136&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 # 💻 Web Projects:
 [![MATHmania](https://s3.ap-south-1.amazonaws.com/assets.mathmania.com/Logos/logo-images/1728896188373.png)](https://mathmania.pk/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![AlShamsCorporation](https://www.alshamscorporation.com/assets/logo-Bjunu67P.svg)](https://www.alshamscorporation.com/)
