@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 <br>🔭 Currently working with Python and MERN stack<br>👯 Open to collaborating on exciting projects<br>🤝 Seeking support and discussions on backend development<br>💬 Feel free to ask me anything about cross-platform development!<br><br>I'm a backend developer with a strong understanding of frontend technologies as well. My expertise lies in Node.js, Django, Flask, and React. If you ever want to discuss backend architecture, best practices, or have any queries, I'm always available to chat!<br><br> ** Join the discussion here:** [GitHub Discussion](https://github.com/mabdullah136/mabdullah136/discussions/1#discussion-8)
 
 
