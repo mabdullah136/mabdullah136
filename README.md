@@ -21,7 +21,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mabdullah136&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 🤖 AI Projects:
-[Virtual Try-On AI](https://www.snapstyle.ai/)
+<p align="left">
+  <a href="https://www.snapstyle.ai/">
+    <img src="https://i.postimg.cc/HWfbV6Zt/Frame-22.png" width="240" height="200" alt="Virtual Try-On AI"/>
+  </a>
+</p>
 
 # 💻 Web Projects:
 [![MATHmania](https://s3.ap-south-1.amazonaws.com/assets.mathmania.com/Logos/logo-images/1728896188373.png)](https://mathmania.pk/)&nbsp;&nbsp;&nbsp;&nbsp;
