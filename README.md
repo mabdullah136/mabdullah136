@@ -85,12 +85,12 @@ contact: github.com/mabdullah136/discussions
 
 ## `$ git log --oneline --stat`
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabdullah136&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullah136&theme=tokyonight&hide_border=true&layout=compact"/>
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -119,17 +119,13 @@ contact: github.com/mabdullah136/discussions
 | **PLANTEO** | Plant care & identification mobile app |
 | **DAWAAAM FOOD** | Food delivery mobile application |
 
----
-
-## `$ cat trophies.txt`
-
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=mabdullah136&theme=nord&no-frame=true&no-bg=false&margin-w=8&column=7" alt="GitHub Trophies"/>
 </a>
 
-</div>
+</div> -->
 
 ---
 
