@@ -1,38 +1,168 @@
-# 💫 About Me
-<br>🔭 Currently working with Python and MERN stack<br>👯 Open to collaborating on exciting projects<br>🤝 Seeking support and discussions on backend development<br>💬 Feel free to ask me anything about cross-platform development!<br><br>I'm a backend developer with a strong understanding of frontend technologies as well. My expertise lies in Node.js, Django, Flask, and React. If you ever want to discuss backend architecture, best practices, or have any queries, I'm always available to chat!<br><br> ** Join the discussion here:** [GitHub Discussion](https://github.com/mabdullah136/mabdullah136/discussions/1#discussion-8)
+<div align="center">
 
+```
+ █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ██╗      █████╗ ██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██║     ██╔══██╗██║  ██║
+███████║██████╔╝██║  ██║██║   ██║██║     ██║     ███████║███████║
+██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██║     ██╔══██║██╔══██║
+██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗███████╗██║  ██║██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah1001) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mabdullahnasir) 
+### `> Backend Engineer · Full-Stack Developer · Builder of Things`
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mabdullah136&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mabdullah136&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullah136&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Node.js+%7C+Django+%7C+Flask+%7C+FastAPI;MongoDB+%7C+PostgreSQL+%7C+MySQL;React+%7C+MERN+Stack+%7C+REST+%26+GraphQL;Building+scalable+backends+since+day+one.)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=mabdullah136&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mabdullah136&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### :top: Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mabdullah136&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## `$ whoami`
 
-# 🤖 AI Projects:
-<p align="left">
-  <a href="https://www.snapstyle.ai/">
-    <img src="https://i.postimg.cc/HWfbV6Zt/Frame-22.png" width="240" height="200" alt="Virtual Try-On AI"/>
-  </a>
-</p>
+```yaml
+name: Muhammad Abdullah
+role: Backend Developer (+ Frontend Aware)
+location: Remote-first 🌍
+experience: Python & MERN Stack
+focus:
+  - Scalable REST & GraphQL APIs
+  - Backend architecture & best practices
+  - Cross-platform development
+open_to:
+  - Collaborations on exciting products
+  - Backend architecture discussions
+  - Building something cool together
+contact: github.com/mabdullah136/discussions
+```
 
-# 💻 Web Projects:
-[![MATHmania](https://s3.ap-south-1.amazonaws.com/assets.mathmania.com/Logos/logo-images/1728896188373.png)](https://mathmania.pk/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![AlShamsCorporation](https://www.alshamscorporation.com/assets/logo-Bjunu67P.svg)](https://www.alshamscorporation.com/)
+---
 
-# 💻 Mobile Projects:
-<img src="https://s3.ap-south-1.amazonaws.com/assets.mathmania.com/local-Storage/student-images/student-profile-1734075093125.jpg" alt="PLANTEO" width="200" height="200" style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://s3.ap-south-1.amazonaws.com/assets.mathmania.com/local-Storage/student-images/student-profile-1734100310919.jpg" alt="DAWAAAM FOOD" width="200" height="200" style="pointer-events: none;">
+## `$ cat tech_stack.json`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ☁️ DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-181717?style=flat-square&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-Clojure?style=flat-square&logo=swagger&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white)
+
+</div>
+
+---
+
+## `$ git log --oneline --stat`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabdullah136&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullah136&theme=tokyonight&hide_border=true&layout=compact"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mabdullah136&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## `$ ls ./projects`
+
+### 🤖 AI
+| Project | Description |
+|---------|-------------|
+| [**SnapStyle AI**](https://www.snapstyle.ai/) | Virtual Try-On powered by AI — see outfits on you before buying |
+
+### 🌐 Web
+| Project | Description |
+|---------|-------------|
+| [**MATHmania**](https://mathmania.pk/) | EdTech platform for mathematics learning |
+| [**Al Shams Corporation**](https://www.alshamscorporation.com/) | Corporate web presence & business platform |
+
+### 📱 Mobile
+| Project | Description |
+|---------|-------------|
+| **PLANTEO** | Plant care & identification mobile app |
+| **DAWAAAM FOOD** | Food delivery mobile application |
+
+---
+
+## `$ cat trophies.txt`
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mabdullah136&theme=nord&no-frame=true&no-bg=false&margin-w=8&column=7" alt="GitHub Trophies"/>
+</a>
+
+</div>
+
+---
+
+## `$ top --contributors`
+
+<div align="center">
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=mabdullah136&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## `$ ping me`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah1001)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/mabdullahnasir)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub%20Discussions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabdullah136/mabdullah136/discussions/1)
+
+<br/>
+
+> *"Good code is its own best documentation."* — Steve McConnell
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mabdullah136&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+<sub>✦ Open to remote work & interesting collaborations ✦</sub>
+</div>
