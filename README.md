@@ -131,16 +131,6 @@ contact: github.com/mabdullah136/discussions
 
 ---
 
-## `$ top --contributors`
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=mabdullah136&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 ## `$ ping me`
 
 <div align="center">
