@@ -112,6 +112,8 @@ contact: github.com/mabdullah136/discussions
 |---------|-------------|
 | [**MATHmania**](https://mathmania.pk/) | EdTech platform for mathematics learning |
 | [**Al Shams Corporation**](https://www.alshamscorporation.com/) | Corporate web presence & business platform |
+| [**Gymnust**](https://gymnust.app//) | Gym Management System |
+| [**Playnust**](https://playnust.app//) | Premier Sports Arena Booking Platform |
 
 ### 📱 Mobile
 | Project | Description |
