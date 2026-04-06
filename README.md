@@ -22,7 +22,7 @@
 ```yaml
 name: Muhammad Abdullah
 role: Backend Developer (+ Frontend Aware)
-location: Remote-first 🌍
+location: Remote-first 
 experience: Python & MERN Stack
 focus:
   - Scalable REST & GraphQL APIs
