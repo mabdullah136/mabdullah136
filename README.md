@@ -131,7 +131,7 @@ contact: github.com/mabdullah136/discussions
 
 ---
 
-## `$ ping me`
+## `$ ping me `
 
 <div align="center">
 
